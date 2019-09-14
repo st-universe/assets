@@ -1,0 +1,91 @@
+!!! - Nicht bei allen Befehlen im github, gibt es gleich eine Meldung 
+daher die Befehle "git status" und "git log" benutzen!!!
+
+1. https://www.github.com 
+--> registrieren, anmelden, einloggen.
+
+2. git for windows auf dem Rechner installieren mit Standart-Einstellungen 
+→ https://gitforwindows.org/ 
+Danach steht am Desktop die "git Bash"
+
+3. Forken:
+Ins Github auf dem BROWSER und auf https://www.github.com gehen. 
+Im Internet bei github.com einfach auf den Fork-Button 
+auf der entsprechende Seite (siehe untenstehende Links)
+
+bisherige Repos für STU 3 sind:
+a) https://github.com/usox/stu3 
+→ Das sind Stu 3 Programmierdaten
+b) https://github.com/usox/stu3-assets 
+→ Das sind alle Stu 3 Bilder 
+c) https://github.com/usox/stu3-doku 
+→ STU 3 Python 2 Dokumentation (wiki)
+(weitere in Vorbereitung…)cd stu3.-ass
+ 
+AB JETZT BIS AUF PUNKT 9 und 10 NUR NOCH GIT BASH
+
+4. Clone: (deingithub(*) ---> entspricht deinem github-Benutzername)
+→ git clone https://github.com/deingithub(*)/stu3
+→ git clone https://github.com/deingithub(*)/stu3-assets
+→ git clone https://github.com/deingithub(*)/stu3-doku usw
+es wird bei Windows IMMER das %home Verzeichnis genutzt
+
+5. Verzeichnis in der bash wechseln
+→ cd stu3-assets    oder → cd stu3    oder → stu3-doku   
+usw. eingeben
+
+6. Remote Upstream einrichten
+→ git remote add upstream https://github.com/usox/stu3-assets.git
+→ git remote add upstream https://github.com/usox/stu3.git
+→ git remote add upstream https://github.com/usox/stu3.doku.git usw..
+
+Prüfen mit 
+→ git remote -v
+(es sollten 4 Stream kommen: 2 vom eigenen Fork, 2 vom usox Repo)
+
+7. Update auf Stand 
+→ git fetch upstream 
+→ git rebase upstream/master
+→ git status
+
+8. Arbeitsplatz eröffnen (Branch) (NeueBranch=ein fiktiver Name)
+→ git checkout -b NeueBranch
+
+9. WECHSEL ZUM $home verzeichnis in die geclonten Dateien.
+(Änderungen und Updates an den Dateien im Windows vornehmen)
+danach in der Bash → git status
+
+10. ADDEN (Ordner= entspricht Ordner, an dem Veränderungen vorgenommen wurden,
+inkl. aller Unterordner und Files)
+→  git add Ordner
+
+11. COMMIT (Kurzänderungen mitteilen) (NeueBranch=ein fiktiver Name)
+→  git commit -m NeueBranch
+Prüfen mit 
+→ git log
+(seehr lange Liste, an oberster Stelle sollte der commit stehen)
+
+12. PUSH (Die geänderten Dateien an usox mitteilen)
+→ git push origin NeueBranch
+
+13. und weichtigster Schritt
+PULL REQUEST ERSTELLEN
+
+BROWSER IM INTERNET nutzen
+und die master datei bei :
+--> https://github.com/usox/stu3
+oder -->  https://github.com/usox/stu3-assets usw. aufschlagen
+
+Sind die Arbeitsschritte bisher richtig durchgeführt 
+so kommt mit grünem Kästchen am Bildschirm “Compare & Pull Request” 
+→ Dort draufdrücken.
+
+Der Inhaber usox kann den Pull Request annehmen oder ablehnen.
+
+Danach ggf. den Master nochmal auf Stand bringen
+→ git checkout master
+→ git fetch upstream
+→ git merge upstream/master
+
+---> EXIT (git bash) wird beendet.
+

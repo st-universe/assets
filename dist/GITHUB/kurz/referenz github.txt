@@ -1,0 +1,20 @@
+? cd stu3-assets   oder   ? cd stu3
+
+? git checkout master
+? git fetch upstream
+? git rebase upstream/master
+?  git status 
+---> git checkout -b “NeueBranch”
+
+Änderungen im $home Windows-Homeverzeichnis
+---> git status
+---> git add "Ordner"
+----> git commit -m NeueBranch
+? git push origin NeueBranch
+
+? Arbeit am heimischen Rechner 
+Es kommt mit grünem Kästchen am Bildschirm “Compare & Pull Request” 
+
+Pull Request über die Internetseite durchführen und nochmals ausführlich die Änderungen beschreiben.
+fertig! 
+(ansonsten immer wieder mal aktualisieren)

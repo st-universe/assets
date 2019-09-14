@@ -1,0 +1,3 @@
+403 als Prototyp aus beiliegenden Bild als Ausschnitt
+402 als Abwandlung farblich verändert mit Bildfarbe aus 601 im Hintergrund
+404 als horizontal gespiegeltes Bild von 403
