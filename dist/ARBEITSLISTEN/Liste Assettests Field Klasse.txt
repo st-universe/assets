@@ -1,0 +1,31 @@
+﻿
+PLANI
+https://stu.wolvnet.de/assettest/example/?type=201	M
+https://stu.wolvnet.de/assettest/example/?type=203	L
+https://stu.wolvnet.de/assettest/example/?type=205	O
+https://stu.wolvnet.de/assettest/example/?type=211	K
+https://stu.wolvnet.de/assettest/example/?type=213	H
+https://stu.wolvnet.de/assettest/example/?type=215	P
+https://stu.wolvnet.de/assettest/example/?type=231	D
+R_KLASSE
+https://stu.wolvnet.de/assettest/example/?type=301 M-R
+https://stu.wolvnet.de/assettest/example/?type=303 L-R
+https://stu.wolvnet.de/assettest/example/?type=305 O-R
+https://stu.wolvnet.de/assettest/example/?type=313 H-R
+https://stu.wolvnet.de/assettest/example/?type=315 P-R
+https://stu.wolvnet.de/assettest/example/?type=331 P-D
+MONDE
+https://stu.wolvnet.de/assettest/example/?type=401 M
+https://stu.wolvnet.de/assettest/example/?type=403 L
+https://stu.wolvnet.de/assettest/example/?type=405 O
+https://stu.wolvnet.de/assettest/example/?type=411 K
+https://stu.wolvnet.de/assettest/example/?type=413 H
+https://stu.wolvnet.de/assettest/example/?type=415 P
+https://stu.wolvnet.de/assettest/example/?type=431 D
+
+
+
+
+
+
+

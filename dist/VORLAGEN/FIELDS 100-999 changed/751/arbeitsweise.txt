@@ -1,0 +1,3 @@
+entstand aus dem beligenden Bild mit mehreren Layern, 
+bei denen Teil davon nochmal ins Bild verschoben wurden
+und dann verkleinert, mit dem Hintergrund auf 701.png versehen
