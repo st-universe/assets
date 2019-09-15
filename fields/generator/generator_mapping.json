@@ -1,7 +1,17 @@
 [
   {
-    "base_field_id": 1122,
-    "layer_id": 3344,
-    "destination_field_id": 11223344
+    "base_field_id": 101,
+    "layer_id": 10101,
+    "destination_field_id": 10101
+  },
+  {
+    "base_field_id": 101,
+    "layer_id": 10103,
+    "destination_field_id": 10103
+  },
+  {
+    "base_field_id": 111,
+    "layer_id": 11101,
+    "destination_field_id": 11101
   }
 ]
