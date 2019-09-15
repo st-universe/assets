@@ -1,0 +1,35 @@
+Bisherige Terraform Bilder (gif 256 Farben) mit Xnview Stapelverarbeitung bearbeitet
+-> alle markiert -> rechtklick -> Lesen "mit Aplha Kanal 32 Bit, und Transparenz (2 x Haken) umgewandelt
+1. Schritt beendet
+
+-> bei 40 x 40 grössen Bild sind sämtliche Symbole bis 24x24 uninteressant.
+-> Stapelverarbeitung "Zuschneiden (Umschalt)" eingestellt auf x 24, y 24 , Breite 16, Höhe 16
+2. Schritt beendet.
+
+-> Prototyp (leeres 32 bit png 40x40 erstellt)
+sämtliche vorhandenen Bilder eingepflegt per Hand.
+und mit Arbeitsliste "stu_colonies_fieldtypes-terraform.ods" verglichen per Hand
+3. Schritt beendet.
+
+
+-----------------------------------------------------------------
+
+-> "generator-mapping.json" für stu3-assets/fields/generator/ generiert
+anhand Liste per Hand. 
+
+generator_mapping.json 
+muss editiert werden anhand der Feldnummern
+
+z.b. 10101 Wiese (fruchtbar)
+base field: 101+
+layer id: 10101
+destination: 10110101
+
+[
+  {
+    "base_field_id": 101,
+    "layer_id": 10101
+    "destination_field_id": 10110101
+  }
+
+Leider gibt es bei json keine möglichkeiten ohne Parser zu kommentieren.
