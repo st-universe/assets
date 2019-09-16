@@ -1,4 +1,4 @@
-Bisherige Terraform Bilder (gif 256 Farben) mit Xnview Stapelverarbeitung bearbeitet
+﻿Bisherige Bonusfield Bilder (gif 256 Farben) mit Xnview Stapelverarbeitung bearbeitet
 -> alle markiert -> rechtklick -> Lesen "mit Aplha Kanal 32 Bit, und Transparenz (2 x Haken) umgewandelt
 1. Schritt beendet
 
@@ -14,22 +14,21 @@ und mit Arbeitsliste "stu_colonies_fieldtypes-terraform.ods" verglichen per Hand
 
 -----------------------------------------------------------------
 
--> "generator-mapping.json" für stu3-assets/fields/generator/ generiert
-anhand Liste per Hand. 
+-> "generator-mapping.json" für stu3-assets/fields/generator/ generiert anhand Liste per Hand und Feldnummer.
 
-generator_mapping.json 
-muss editiert werden anhand der Feldnummern
+z.b. bei 10101 Wiese (fruchtbar)
 
-z.b. 10101 Wiese (fruchtbar)
-base field: 101+
-layer id: 10101
-destination: 10110101
+base field: 101 (Wiese)
+layer id: 10101 (Wiese (Fruchtbar))
+destination: 10101
 
 [
   {
     "base_field_id": 101,
     "layer_id": 10101
-    "destination_field_id": 10110101
+    "destination_field_id": 10101
   }
+usw.
+
 
 Leider gibt es bei json keine möglichkeiten ohne Parser zu kommentieren.
