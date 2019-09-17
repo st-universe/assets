@@ -1,5 +1,10 @@
 {
   "name": "usox/stu3-assets",
   "description": "STU3 Assets",
-  "license": "proprietary"
+  "license": "proprietary",
+  "require": {
+    "ext-gd": "*",
+    "ext-json": "*",
+    "php": "^7.3"
+  }
 }
