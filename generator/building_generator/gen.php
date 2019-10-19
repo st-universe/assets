@@ -75,7 +75,12 @@ foreach ($dirContent as $dir) {
         );
     }
 
-    foreach ($config->buildable_fields as $item) {
+    $images = array_merge(
+        $config->buildable_fields,
+        $config->upgrade_to
+    );
+
+    foreach ($images as $item) {
         if ($item->bonus_type === 0) {
             continue;
         }
