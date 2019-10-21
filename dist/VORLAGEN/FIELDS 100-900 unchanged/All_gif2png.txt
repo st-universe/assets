@@ -1,0 +1,7 @@
+Die hier vorhandenen Dateien sind noch nicht geändert worden und basieren bis heute auf dem 
+alten "gif" umgewandelten Format in 32 bit png
+
+sämtliche Dateien zusammen mit nconvert.exe in gleichen Ordner kopieren.
+cmd über nconvert (Xnview-Commandozeile) ausführen = Freie Software für Non Profit Org
+
+nconvert.exe -out png -32bits *.gif
