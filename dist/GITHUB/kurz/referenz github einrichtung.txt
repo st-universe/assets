@@ -14,12 +14,23 @@ Im Internet bei github.com einfach auf den Fork-Button
 auf der entsprechende Seite (siehe untenstehende Links)
 
 bisherige Repos für STU 3 sind:
-a) https://github.com/usox/stu3 
-→ Das sind Stu 3 Programmierdaten
-b) https://github.com/usox/stu3-assets 
+
+a)   https://github.com//starsystem-generator
+→ Das sind Stu 3 Programmierdaten für die automatische Sternenkartengenerierung
+
+b)   https://github.com/st-universe/assets
 → Das sind alle Stu 3 Bilder 
-c) https://github.com/usox/stu3-doku 
+
+c)   https://github.com/st-universe/docu
 → STU 3 Python 2 Dokumentation (wiki)
+
+d)   https://github.com/st-universe/planet-generator
+→ STU 3 Planet Generator
+
+e)    https://github.com/st-universe/forum-skin
+→ STU 3 Forum Skin fürs Stu Forum
+
+
 (weitere in Vorbereitung…)cd stu3.-ass
  
 AB JETZT BIS AUF PUNKT 9 und 10 NUR NOCH GIT BASH
@@ -35,9 +46,11 @@ es wird bei Windows IMMER das %home Verzeichnis genutzt
 usw. eingeben
 
 6. Remote Upstream einrichten
-→ git remote add upstream https://github.com/usox/stu3-assets.git
-→ git remote add upstream https://github.com/usox/stu3.git
-→ git remote add upstream https://github.com/usox/stu3.doku.git usw..
+→ git remote add upstream https://github.com//st-universe/planet-generator.git
+→ git remote add upstream https://github.com/st-universe/docu.git
+→ git remote add upstream https://github.com/st-universe/forum-skin.git
+→ git remote add upstream https://github.com/st-universe/assets.git
+→ git remote add upstream https://github.com//starsystem-generator.git
 
 Prüfen mit 
 → git remote -v
@@ -73,8 +86,8 @@ PULL REQUEST ERSTELLEN
 
 BROWSER IM INTERNET nutzen
 und die master datei bei :
---> https://github.com/usox/stu3
-oder -->  https://github.com/usox/stu3-assets usw. aufschlagen
+--> git remote add upstream https://github.com/st-universe/assets
+oder -->  git remote add upstream https://github.com/st-universe/assets.git usw. aufschlagen
 
 Sind die Arbeitsschritte bisher richtig durchgeführt 
 so kommt mit grünem Kästchen am Bildschirm “Compare & Pull Request” 
