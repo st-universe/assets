@@ -37,31 +37,6 @@
             "bonus_type": 2
         },
         {
-            "field_id": 101,
-            "building_id": 33020200,
-            "bonus_type": 0
-        },
-        {
-            "field_id": 10101,
-            "building_id": 33020299,
-            "bonus_type": 2
-        },
-        {
-            "field_id": 10103,
-            "building_id": 33020299,
-            "bonus_type": 2
-        },
-        {
-            "field_id": 122,
-            "building_id": 33020200,
-            "bonus_type": 0
-        },
-        {
-            "field_id": 12201,
-            "building_id": 33020299,
-            "bonus_type": 2
-        },
-        {
             "field_id": 713,
             "building_id": 33020200,
             "bonus_type": 0
