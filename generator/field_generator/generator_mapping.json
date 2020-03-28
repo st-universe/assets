@@ -280,6 +280,21 @@
     "destination_field_id": 71304
   },
   {
+    "base_field_id": 706,
+    "layer_id": 70612,
+    "destination_field_id": 70612
+  },
+  {
+    "base_field_id": 706,
+    "layer_id": 70621,
+    "destination_field_id": 70621
+  },
+  {
+    "base_field_id": 706,
+    "layer_id": 70622,
+    "destination_field_id": 70622
+  },
+  {
     "base_field_id": 713,
     "layer_id": 71331,
     "destination_field_id": 71331
