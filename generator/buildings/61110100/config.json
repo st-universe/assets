@@ -225,6 +225,11 @@
             "field_id": 75504,
             "building_id": 61110199,
             "bonus_type": 2
+        },
+        {
+            "field_id": 90212,
+            "building_id": 61110112,
+            "bonus_type": 1
         }
     ],
     "upgrade_to": []
