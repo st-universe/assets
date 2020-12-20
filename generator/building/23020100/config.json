@@ -1,0 +1,14 @@
+{
+    "base_building_id": 23020100,
+    "buildable_fields": [],
+    "upgrade_to": [
+        {
+            "building_id": 23020102,
+            "bonus_type": 1
+        },
+        {
+            "building_id": 23020199,
+            "bonus_type": 2
+        }
+    ]
+}
