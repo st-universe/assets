@@ -5,6 +5,7 @@
   "require": {
     "ext-gd": "*",
     "ext-json": "*",
-    "php": "^7.4||^8"
+    "php": "^7.4||^8",
+    "paragonie/sodium_compat": "^1.20"
   }
 }
