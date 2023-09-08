@@ -1,8 +1,7 @@
 <?php
 
 $basePath = sprintf(
-    //'%s/original',
-    '%s/part',
+    '%s/original',
     __DIR__
 );
 
@@ -11,15 +10,17 @@ $destinationPath = sprintf(
     __DIR__
 );
 
-echo print_r($argv, true);
 $key = $argv[1];
 
+$count = 0;
 $list = new DirectoryIterator($basePath);
 
 foreach ($list as $file) {
     if ($file->isDir()) {
         continue;
     }
+
+    $count++;
 
     $fileName = $file->getFilename();
     $index = str_replace('.png', '', $fileName);
@@ -61,3 +62,6 @@ foreach ($list as $file) {
         )
     );
 }
+
+echo "\n\n";
+echo sprintf('%d images have been ciphered to encoded folder. You can commit the encoded folder now.');
