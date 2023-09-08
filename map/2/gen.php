@@ -1,5 +1,13 @@
 <?php
 
+/**
+ * USAGE:
+ * 
+ * 1) put the original files into the original folder.
+ * 2) start the script on command line via "php gen.php PASSWORT".
+ * 3) commit the changes made to the encoded folder to github.
+ */
+
 $basePath = sprintf(
     '%s/original',
     __DIR__
