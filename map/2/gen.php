@@ -64,4 +64,4 @@ foreach ($list as $file) {
 }
 
 echo "\n\n";
-echo sprintf('%d images have been ciphered to encoded folder. You can commit the encoded folder now.');
+echo sprintf('%d images have been ciphered to encoded folder. You can commit the encoded folder now.', $count);
