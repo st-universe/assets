@@ -40,12 +40,16 @@ foreach ($list as $file) {
     }
 
     $cipher = base64_encode(crypt($index, $key));
-    $cipher = str_replace('/', '5', $cipher);
+    $cipher = bin2hex($cipher);
 
     $parts = str_split($cipher, 8);
+    $partsSize = count($parts);
 
-    $newFolderPath = implode("/", [$parts[0], $parts[1]]);
-    echo $newFolderPath . "/" . $parts[2] .  "\n";
+    $last = $parts[$partsSize - 1];
+    unset($parts[$partsSize - 1]);
+
+    $newFolderPath = implode("/", $parts);
+    echo $newFolderPath . "/" . $last .  "\n";
 
     $itemDestinationPath = sprintf('%s/%s', $destinationPath, $newFolderPath);
 
@@ -66,10 +70,10 @@ foreach ($list as $file) {
         sprintf(
             '%s/%s.png',
             $itemDestinationPath,
-            $parts[2]
+            $last
         )
     );
 }
 
 echo "\n\n";
-echo sprintf('%d images have been ciphered to encoded folder. You can commit the encoded folder now.', $count);
+echo sprintf("%d images have been ciphered to encoded folder. You can commit the encoded folder now.\n\n", $count);
