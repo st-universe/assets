@@ -1,0 +1,10 @@
+{
+  "name": "st-universe/assets",
+  "description": "STU Assets",
+  "license": "proprietary",
+  "require": {
+    "ext-gd": "*",
+    "ext-json": "*",
+    "php": "^7.4||^8"
+  }
+}

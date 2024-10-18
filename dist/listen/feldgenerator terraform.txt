@@ -1,0 +1,36 @@
+Feldgenerator
+
+Alle Layer-Bild muessen mit einer eindeutigen ID im layer/-Verzeichnis hinterlegt werden. Die Bilder muessen die gleiche Groesse haben, wie die Feldbilder bisher, transparent sein und das Bonusicon an entsprechender Stelle haben. 
+
+In der Datei generator_mappting.json muss dazu die Information hinterlegt werden, mittels welchem Basis-Feld der Layer zu einem Bonusfeld generiert werden soll. Die Feldtyp-Id des Zielfelds muss ebenso angegeben werden.
+
+/ github: stu3-assets/fields/generator/layer/
+
+-> in den Ordner die Terraform Files
+
+entweder: 1. Variante
+- Transparent
+- nur das rechte Eck muss übernommen werden
+
+oder: 2. Variante
+- fields mit Transparentem Eck versehen und einstellen
+
+immer:
+- 40x40 gif 
+- und png (/png als Unterordner)
+
+generator_mappting.json 
+muss editiert werden anhand der Feldnummern
+
+z.b. 10101 Wiese (fruchtbar)
+base field: 101+
+layer id: 10101
+destination: 10110101
+
+[
+  {
+    "base_field_id": 101,
+    "layer_id": 10101
+    "destination_field_id": 10110101
+  }
+usw...
