@@ -1,0 +1,1018 @@
+[
+  {
+    "base_field_id": 101,
+    "layer_id": 10101,
+    "destination_field_id": 10101
+  },
+  {
+    "base_field_id": 101,
+    "layer_id": 10103,
+    "destination_field_id": 10103
+  },
+  {
+    "base_field_id": 111,
+    "layer_id": 11101,
+    "destination_field_id": 11101
+  },
+  {
+    "base_field_id": 111,
+    "layer_id": 11103,
+    "destination_field_id": 11103
+  },
+  {
+    "base_field_id": 112,
+    "layer_id": 11201,
+    "destination_field_id": 11201
+  },
+  {
+    "base_field_id": 112,
+    "layer_id": 11203,
+    "destination_field_id": 11203
+  },
+  {
+    "base_field_id": 121,
+    "layer_id": 12101,
+    "destination_field_id": 12101
+  },
+  {
+    "base_field_id": 122,
+    "layer_id": 12201,
+    "destination_field_id": 12201
+  },
+  {
+    "base_field_id": 201,
+    "layer_id": 20102,
+    "destination_field_id": 20102
+  },
+  {
+    "base_field_id": 201,
+    "layer_id": 20111,
+    "destination_field_id": 20111
+  },
+  {
+    "base_field_id": 201,
+    "layer_id": 20132,
+    "destination_field_id": 20132
+  },
+  {
+    "base_field_id": 210,
+    "layer_id": 21011,
+    "destination_field_id": 21011
+  },
+  {
+    "base_field_id": 211,
+    "layer_id": 21102,
+    "destination_field_id": 21102
+  },
+  {
+    "base_field_id": 211,
+    "layer_id": 21111,
+    "destination_field_id": 21111
+  },
+  {
+    "base_field_id": 211,
+    "layer_id": 21132,
+    "destination_field_id": 21132
+  },
+  {
+    "base_field_id": 212,
+    "layer_id": 21202,
+    "destination_field_id": 21202
+  },
+  {
+    "base_field_id": 212,
+    "layer_id": 21211,
+    "destination_field_id": 21211
+  },
+  {
+    "base_field_id": 212,
+    "layer_id": 21232,
+    "destination_field_id": 21232
+  },
+  {
+    "base_field_id": 221,
+    "layer_id": 22102,
+    "destination_field_id": 22102
+  },
+  {
+    "base_field_id": 221,
+    "layer_id": 22111,
+    "destination_field_id": 22111
+  },
+  {
+    "base_field_id": 221,
+    "layer_id": 22132,
+    "destination_field_id": 22132
+  },
+  {
+    "base_field_id": 222,
+    "layer_id": 22202,
+    "destination_field_id": 22202
+  },
+  {
+    "base_field_id": 222,
+    "layer_id": 22211,
+    "destination_field_id": 22211
+  },
+  {
+    "base_field_id": 222,
+    "layer_id": 22232,
+    "destination_field_id": 22232
+  },
+  {
+    "base_field_id": 231,
+    "layer_id": 23111,
+    "destination_field_id": 23111
+  },
+  {
+    "base_field_id": 232,
+    "layer_id": 23211,
+    "destination_field_id": 23211
+  },
+  {
+    "base_field_id": 401,
+    "layer_id": 40131,
+    "destination_field_id": 40131
+  },
+  {
+    "base_field_id": 402,
+    "layer_id": 40231,
+    "destination_field_id": 40231
+  },
+  {
+    "base_field_id": 403,
+    "layer_id": 40331,
+    "destination_field_id": 40331
+  },
+  {
+    "base_field_id": 404,
+    "layer_id": 40431,
+    "destination_field_id": 40431
+  },
+  {
+    "base_field_id": 501,
+    "layer_id": 50111,
+    "destination_field_id": 50111
+  },
+  {
+    "base_field_id": 511,
+    "layer_id": 51111,
+    "destination_field_id": 51111
+  },
+  {
+    "base_field_id": 601,
+    "layer_id": 60101,
+    "destination_field_id": 60101
+  },
+  {
+    "base_field_id": 601,
+    "layer_id": 60103,
+    "destination_field_id": 60103
+  },
+  {
+    "base_field_id": 601,
+    "layer_id": 60104,
+    "destination_field_id": 60104
+  },
+  {
+    "base_field_id": 602,
+    "layer_id": 60201,
+    "destination_field_id": 60201
+  },
+  {
+    "base_field_id": 602,
+    "layer_id": 60203,
+    "destination_field_id": 60203
+  },
+  {
+    "base_field_id": 611,
+    "layer_id": 61101,
+    "destination_field_id": 61101
+  },
+  {
+    "base_field_id": 611,
+    "layer_id": 61103,
+    "destination_field_id": 61103
+  },
+  {
+    "base_field_id": 611,
+    "layer_id": 61104,
+    "destination_field_id": 61104
+  },
+  {
+    "base_field_id": 701,
+    "layer_id": 70112,
+    "destination_field_id": 70112
+  },
+  {
+    "base_field_id": 701,
+    "layer_id": 70121,
+    "destination_field_id": 70121
+  },
+  {
+    "base_field_id": 701,
+    "layer_id": 70122,
+    "destination_field_id": 70122
+  },
+  {
+    "base_field_id": 702,
+    "layer_id": 70212,
+    "destination_field_id": 70212
+  },
+  {
+    "base_field_id": 702,
+    "layer_id": 70221,
+    "destination_field_id": 70221
+  },
+  {
+    "base_field_id": 702,
+    "layer_id": 70222,
+    "destination_field_id": 70222
+  },
+  {
+    "base_field_id": 703,
+    "layer_id": 70312,
+    "destination_field_id": 70312
+  },
+  {
+    "base_field_id": 703,
+    "layer_id": 70321,
+    "destination_field_id": 70321
+  },
+  {
+    "base_field_id": 703,
+    "layer_id": 70322,
+    "destination_field_id": 70322
+  },
+  {
+    "base_field_id": 704,
+    "layer_id": 70412,
+    "destination_field_id": 70412
+  },
+  {
+    "base_field_id": 704,
+    "layer_id": 70421,
+    "destination_field_id": 70421
+  },
+  {
+    "base_field_id": 704,
+    "layer_id": 70422,
+    "destination_field_id": 70422
+  },
+  {
+    "base_field_id": 705,
+    "layer_id": 70512,
+    "destination_field_id": 70512
+  },
+  {
+    "base_field_id": 705,
+    "layer_id": 70521,
+    "destination_field_id": 70521
+  },
+  {
+    "base_field_id": 705,
+    "layer_id": 70522,
+    "destination_field_id": 70522
+  },
+  {
+    "base_field_id": 713,
+    "layer_id": 71304,
+    "destination_field_id": 71304
+  },
+  {
+    "base_field_id": 706,
+    "layer_id": 70612,
+    "destination_field_id": 70612
+  },
+  {
+    "base_field_id": 706,
+    "layer_id": 70621,
+    "destination_field_id": 70621
+  },
+  {
+    "base_field_id": 706,
+    "layer_id": 70622,
+    "destination_field_id": 70622
+  },
+  {
+    "base_field_id": 713,
+    "layer_id": 71331,
+    "destination_field_id": 71331
+  },
+  {
+    "base_field_id": 715,
+    "layer_id": 71504,
+    "destination_field_id": 71504
+  },
+  {
+    "base_field_id": 725,
+    "layer_id": 72504,
+    "destination_field_id": 72504
+  },
+  {
+    "base_field_id": 751,
+    "layer_id": 75112,
+    "destination_field_id": 75112
+  },
+  {
+    "base_field_id": 751,
+    "layer_id": 75121,
+    "destination_field_id": 75121
+  },
+  {
+    "base_field_id": 751,
+    "layer_id": 75122,
+    "destination_field_id": 75122
+  },
+  {
+    "base_field_id": 752,
+    "layer_id": 75212,
+    "destination_field_id": 75212
+  },
+  {
+    "base_field_id": 752,
+    "layer_id": 75221,
+    "destination_field_id": 75221
+  },
+  {
+    "base_field_id": 752,
+    "layer_id": 75222,
+    "destination_field_id": 75222
+  },
+  {
+    "base_field_id": 753,
+    "layer_id": 75312,
+    "destination_field_id": 75312
+  },
+  {
+    "base_field_id": 753,
+    "layer_id": 75321,
+    "destination_field_id": 75321
+  },
+  {
+    "base_field_id": 753,
+    "layer_id": 75322,
+    "destination_field_id": 75322
+  },
+  {
+    "base_field_id": 754,
+    "layer_id": 75412,
+    "destination_field_id": 75412
+  },
+  {
+    "base_field_id": 754,
+    "layer_id": 75421,
+    "destination_field_id": 75421
+  },
+  {
+    "base_field_id": 754,
+    "layer_id": 75422,
+    "destination_field_id": 75422
+  },
+  {
+    "base_field_id": 755,
+    "layer_id": 75512,
+    "destination_field_id": 75512
+  },
+  {
+    "base_field_id": 755,
+    "layer_id": 75521,
+    "destination_field_id": 75521
+  },
+  {
+    "base_field_id": 755,
+    "layer_id": 75522,
+    "destination_field_id": 75522
+  },
+  {
+    "base_field_id": 902,
+    "layer_id": 90212,
+    "destination_field_id": 90212
+  },
+  {
+    "base_field_id": "n101",
+    "layer_id": "n10101",
+    "destination_field_id": "n10101"},
+  {
+    "base_field_id": "n101",
+    "layer_id": "n10103",
+    "destination_field_id": "n10103"},
+  {
+    "base_field_id": "n111",
+    "layer_id": "n11101",
+    "destination_field_id": "n11101"},
+  {
+    "base_field_id": "n111",
+    "layer_id": "n11103",
+    "destination_field_id": "n11103"},
+  {
+    "base_field_id": "n112",
+    "layer_id": "n11201",
+    "destination_field_id": "n11201"},
+  {
+    "base_field_id": "n112",
+    "layer_id": "n11203",
+    "destination_field_id": "n11203"},
+  {
+    "base_field_id": "n121",
+    "layer_id": "n12101",
+    "destination_field_id": "n12101"},
+  {
+    "base_field_id": "n122",
+    "layer_id": "n12201",
+    "destination_field_id": "n12201"},
+  {
+    "base_field_id": "n201",
+    "layer_id": "n20102",
+    "destination_field_id": "n20102"},
+  {
+    "base_field_id": "n201",
+    "layer_id": "n20111",
+    "destination_field_id": "n20111"},
+  {
+    "base_field_id": "n201",
+    "layer_id": "n20132",
+    "destination_field_id": "n20132"},
+  {
+    "base_field_id": "n210",
+    "layer_id": "n21011",
+    "destination_field_id": "n21011"},
+  {
+    "base_field_id": "n211",
+    "layer_id": "n21102",
+    "destination_field_id": "n21102"},
+  {
+    "base_field_id": "n211",
+    "layer_id": "n21111",
+    "destination_field_id": "n21111"},
+  {
+    "base_field_id": "n211",
+    "layer_id": "n21132",
+    "destination_field_id": "n21132"},
+  {
+    "base_field_id": "n212",
+    "layer_id": "n21202",
+    "destination_field_id": "n21202"},
+  {
+    "base_field_id": "n212",
+    "layer_id": "n21211",
+    "destination_field_id": "n21211"},
+  {
+    "base_field_id": "n212",
+    "layer_id": "n21232",
+    "destination_field_id": "n21232"},
+  {
+    "base_field_id": "n221",
+    "layer_id": "n22102",
+    "destination_field_id": "n22102"},
+  {
+    "base_field_id": "n221",
+    "layer_id": "n22111",
+    "destination_field_id": "n22111"},
+  {
+    "base_field_id": "n221",
+    "layer_id": "n22132",
+    "destination_field_id": "n22132"},
+  {
+    "base_field_id": "n222",
+    "layer_id": "n22202",
+    "destination_field_id": "n22202"},
+  {
+    "base_field_id": "n222",
+    "layer_id": "n22211",
+    "destination_field_id": "n22211"},
+  {
+    "base_field_id": "n222",
+    "layer_id": "n22232",
+    "destination_field_id": "n22232"},
+  {
+    "base_field_id": "n231",
+    "layer_id": "n23111",
+    "destination_field_id": "n23111"},
+  {
+    "base_field_id": "n232",
+    "layer_id": "n23211",
+    "destination_field_id": "n23211"},
+  {
+    "base_field_id": "n401",
+    "layer_id": "n40131",
+    "destination_field_id": "n40131"},
+  {
+    "base_field_id": "n402",
+    "layer_id": "n40231",
+    "destination_field_id": "n40231"},
+  {
+    "base_field_id": "n403",
+    "layer_id": "n40331",
+    "destination_field_id": "n40331"},
+  {
+    "base_field_id": "n404",
+    "layer_id": "n40431",
+    "destination_field_id": "n40431"},
+  {
+    "base_field_id": "n501",
+    "layer_id": "n50111",
+    "destination_field_id": "n50111"},
+  {
+    "base_field_id": "n511",
+    "layer_id": "n51111",
+    "destination_field_id": "n51111"},
+  {
+    "base_field_id": "n601",
+    "layer_id": "n60101",
+    "destination_field_id": "n60101"},
+  {
+    "base_field_id": "n601",
+    "layer_id": "n60103",
+    "destination_field_id": "n60103"},
+  {
+    "base_field_id": "n601",
+    "layer_id": "n60104",
+    "destination_field_id": "n60104"},
+  {
+    "base_field_id": "n602",
+    "layer_id": "n60201",
+    "destination_field_id": "n60201"},
+  {
+    "base_field_id": "n602",
+    "layer_id": "n60203",
+    "destination_field_id": "n60203"},
+  {
+    "base_field_id": "n611",
+    "layer_id": "n61101",
+    "destination_field_id": "n61101"},
+  {
+    "base_field_id": "n611",
+    "layer_id": "n61103",
+    "destination_field_id": "n61103"},
+  {
+    "base_field_id": "n611",
+    "layer_id": "n61104",
+    "destination_field_id": "n61104"},
+  {
+    "base_field_id": "n701",
+    "layer_id": "n70112",
+    "destination_field_id": "n70112"},
+  {
+    "base_field_id": "n701",
+    "layer_id": "n70121",
+    "destination_field_id": "n70121"},
+  {
+    "base_field_id": "n701",
+    "layer_id": "n70122",
+    "destination_field_id": "n70122"},
+  {
+    "base_field_id": "n702",
+    "layer_id": "n70212",
+    "destination_field_id": "n70212"},
+  {
+    "base_field_id": "n702",
+    "layer_id": "n70221",
+    "destination_field_id": "n70221"},
+  {
+    "base_field_id": "n702",
+    "layer_id": "n70222",
+    "destination_field_id": "n70222"},
+  {
+    "base_field_id": "n703",
+    "layer_id": "n70312",
+    "destination_field_id": "n70312"},
+  {
+    "base_field_id": "n703",
+    "layer_id": "n70321",
+    "destination_field_id": "n70321"},
+  {
+    "base_field_id": "n703",
+    "layer_id": "n70322",
+    "destination_field_id": "n70322"},
+  {
+    "base_field_id": "n704",
+    "layer_id": "n70412",
+    "destination_field_id": "n70412"},
+  {
+    "base_field_id": "n704",
+    "layer_id": "n70421",
+    "destination_field_id": "n70421"},
+  {
+    "base_field_id": "n704",
+    "layer_id": "n70422",
+    "destination_field_id": "n70422"},
+  {
+    "base_field_id": "n705",
+    "layer_id": "n70512",
+    "destination_field_id": "n70512"},
+  {
+    "base_field_id": "n705",
+    "layer_id": "n70521",
+    "destination_field_id": "n70521"},
+  {
+    "base_field_id": "n705",
+    "layer_id": "n70522",
+    "destination_field_id": "n70522"},
+  {
+    "base_field_id": "n713",
+    "layer_id": "n71304",
+    "destination_field_id": "n71304"},
+  {
+    "base_field_id": "n706",
+    "layer_id": "n70612",
+    "destination_field_id": "n70612"},
+  {
+    "base_field_id": "n706",
+    "layer_id": "n70621",
+    "destination_field_id": "n70621"},
+  {
+    "base_field_id": "n706",
+    "layer_id": "n70622",
+    "destination_field_id": "n70622"},
+  {
+    "base_field_id": "n713",
+    "layer_id": "n71331",
+    "destination_field_id": "n71331"},
+  {
+    "base_field_id": "n715",
+    "layer_id": "n71504",
+    "destination_field_id": "n71504"},
+  {
+    "base_field_id": "n725",
+    "layer_id": "n72504",
+    "destination_field_id": "n72504"},
+  {
+    "base_field_id": "n751",
+    "layer_id": "n75112",
+    "destination_field_id": "n75112"},
+  {
+    "base_field_id": "n751",
+    "layer_id": "n75121",
+    "destination_field_id": "n75121"},
+  {
+    "base_field_id": "n751",
+    "layer_id": "n75122",
+    "destination_field_id": "n75122"},
+  {
+    "base_field_id": "n752",
+    "layer_id": "n75212",
+    "destination_field_id": "n75212"},
+  {
+    "base_field_id": "n752",
+    "layer_id": "n75221",
+    "destination_field_id": "n75221"},
+  {
+    "base_field_id": "n752",
+    "layer_id": "n75222",
+    "destination_field_id": "n75222"},
+  {
+    "base_field_id": "n753",
+    "layer_id": "n75312",
+    "destination_field_id": "n75312"},
+  {
+    "base_field_id": "n753",
+    "layer_id": "n75321",
+    "destination_field_id": "n75321"},
+  {
+    "base_field_id": "n753",
+    "layer_id": "n75322",
+    "destination_field_id": "n75322"},
+  {
+    "base_field_id": "n754",
+    "layer_id": "n75412",
+    "destination_field_id": "n75412"},
+  {
+    "base_field_id": "n754",
+    "layer_id": "n75421",
+    "destination_field_id": "n75421"},
+  {
+    "base_field_id": "n754",
+    "layer_id": "n75422",
+    "destination_field_id": "n75422"},
+  {
+    "base_field_id": "n755",
+    "layer_id": "n75512",
+    "destination_field_id": "n75512"},
+  {
+    "base_field_id": "n755",
+    "layer_id": "n75521",
+    "destination_field_id": "n75521"},
+  {
+    "base_field_id": "n755",
+    "layer_id": "n75522",
+    "destination_field_id": "n75522"},
+  {
+    "base_field_id": "n902",
+    "layer_id": "n90212",
+    "destination_field_id": "n90212"
+  },
+  {
+    "base_field_id": "t101",
+    "layer_id": "t10101",
+    "destination_field_id": "t10101"},
+  {
+    "base_field_id": "t101",
+    "layer_id": "t10103",
+    "destination_field_id": "t10103"},
+  {
+    "base_field_id": "t111",
+    "layer_id": "t11101",
+    "destination_field_id": "t11101"},
+  {
+    "base_field_id": "t111",
+    "layer_id": "t11103",
+    "destination_field_id": "t11103"},
+  {
+    "base_field_id": "t112",
+    "layer_id": "t11201",
+    "destination_field_id": "t11201"},
+  {
+    "base_field_id": "t112",
+    "layer_id": "t11203",
+    "destination_field_id": "t11203"},
+  {
+    "base_field_id": "t121",
+    "layer_id": "t12101",
+    "destination_field_id": "t12101"},
+  {
+    "base_field_id": "t122",
+    "layer_id": "t12201",
+    "destination_field_id": "t12201"},
+  {
+    "base_field_id": "t201",
+    "layer_id": "t20102",
+    "destination_field_id": "t20102"},
+  {
+    "base_field_id": "t201",
+    "layer_id": "t20111",
+    "destination_field_id": "t20111"},
+  {
+    "base_field_id": "t201",
+    "layer_id": "t20132",
+    "destination_field_id": "t20132"},
+  {
+    "base_field_id": "t210",
+    "layer_id": "t21011",
+    "destination_field_id": "t21011"},
+  {
+    "base_field_id": "t211",
+    "layer_id": "t21102",
+    "destination_field_id": "t21102"},
+  {
+    "base_field_id": "t211",
+    "layer_id": "t21111",
+    "destination_field_id": "t21111"},
+  {
+    "base_field_id": "t211",
+    "layer_id": "t21132",
+    "destination_field_id": "t21132"},
+  {
+    "base_field_id": "t212",
+    "layer_id": "t21202",
+    "destination_field_id": "t21202"},
+  {
+    "base_field_id": "t212",
+    "layer_id": "t21211",
+    "destination_field_id": "t21211"},
+  {
+    "base_field_id": "t212",
+    "layer_id": "t21232",
+    "destination_field_id": "t21232"},
+  {
+    "base_field_id": "t221",
+    "layer_id": "t22102",
+    "destination_field_id": "t22102"},
+  {
+    "base_field_id": "t221",
+    "layer_id": "t22111",
+    "destination_field_id": "t22111"},
+  {
+    "base_field_id": "t221",
+    "layer_id": "t22132",
+    "destination_field_id": "t22132"},
+  {
+    "base_field_id": "t222",
+    "layer_id": "t22202",
+    "destination_field_id": "t22202"},
+  {
+    "base_field_id": "t222",
+    "layer_id": "t22211",
+    "destination_field_id": "t22211"},
+  {
+    "base_field_id": "t222",
+    "layer_id": "t22232",
+    "destination_field_id": "t22232"},
+  {
+    "base_field_id": "t231",
+    "layer_id": "t23111",
+    "destination_field_id": "t23111"},
+  {
+    "base_field_id": "t232",
+    "layer_id": "t23211",
+    "destination_field_id": "t23211"},
+  {
+    "base_field_id": "t401",
+    "layer_id": "t40131",
+    "destination_field_id": "t40131"},
+  {
+    "base_field_id": "t402",
+    "layer_id": "t40231",
+    "destination_field_id": "t40231"},
+  {
+    "base_field_id": "t403",
+    "layer_id": "t40331",
+    "destination_field_id": "t40331"},
+  {
+    "base_field_id": "t404",
+    "layer_id": "t40431",
+    "destination_field_id": "t40431"},
+  {
+    "base_field_id": "t501",
+    "layer_id": "t50111",
+    "destination_field_id": "t50111"},
+  {
+    "base_field_id": "t511",
+    "layer_id": "t51111",
+    "destination_field_id": "t51111"},
+  {
+    "base_field_id": "t601",
+    "layer_id": "t60101",
+    "destination_field_id": "t60101"},
+  {
+    "base_field_id": "t601",
+    "layer_id": "t60103",
+    "destination_field_id": "t60103"},
+  {
+    "base_field_id": "t601",
+    "layer_id": "t60104",
+    "destination_field_id": "t60104"},
+  {
+    "base_field_id": "t602",
+    "layer_id": "t60201",
+    "destination_field_id": "t60201"},
+  {
+    "base_field_id": "t602",
+    "layer_id": "t60203",
+    "destination_field_id": "t60203"},
+  {
+    "base_field_id": "t611",
+    "layer_id": "t61101",
+    "destination_field_id": "t61101"},
+  {
+    "base_field_id": "t611",
+    "layer_id": "t61103",
+    "destination_field_id": "t61103"},
+  {
+    "base_field_id": "t611",
+    "layer_id": "t61104",
+    "destination_field_id": "t61104"},
+  {
+    "base_field_id": "t701",
+    "layer_id": "t70112",
+    "destination_field_id": "t70112"},
+  {
+    "base_field_id": "t701",
+    "layer_id": "t70121",
+    "destination_field_id": "t70121"},
+  {
+    "base_field_id": "t701",
+    "layer_id": "t70122",
+    "destination_field_id": "t70122"},
+  {
+    "base_field_id": "t702",
+    "layer_id": "t70212",
+    "destination_field_id": "t70212"},
+  {
+    "base_field_id": "t702",
+    "layer_id": "t70221",
+    "destination_field_id": "t70221"},
+  {
+    "base_field_id": "t702",
+    "layer_id": "t70222",
+    "destination_field_id": "t70222"},
+  {
+    "base_field_id": "t703",
+    "layer_id": "t70312",
+    "destination_field_id": "t70312"},
+  {
+    "base_field_id": "t703",
+    "layer_id": "t70321",
+    "destination_field_id": "t70321"},
+  {
+    "base_field_id": "t703",
+    "layer_id": "t70322",
+    "destination_field_id": "t70322"},
+  {
+    "base_field_id": "t704",
+    "layer_id": "t70412",
+    "destination_field_id": "t70412"},
+  {
+    "base_field_id": "t704",
+    "layer_id": "t70421",
+    "destination_field_id": "t70421"},
+  {
+    "base_field_id": "t704",
+    "layer_id": "t70422",
+    "destination_field_id": "t70422"},
+  {
+    "base_field_id": "t705",
+    "layer_id": "t70512",
+    "destination_field_id": "t70512"},
+  {
+    "base_field_id": "t705",
+    "layer_id": "t70521",
+    "destination_field_id": "t70521"},
+  {
+    "base_field_id": "t705",
+    "layer_id": "t70522",
+    "destination_field_id": "t70522"},
+  {
+    "base_field_id": "t713",
+    "layer_id": "t71304",
+    "destination_field_id": "t71304"},
+  {
+    "base_field_id": "t706",
+    "layer_id": "t70612",
+    "destination_field_id": "t70612"},
+  {
+    "base_field_id": "t706",
+    "layer_id": "t70621",
+    "destination_field_id": "t70621"},
+  {
+    "base_field_id": "t706",
+    "layer_id": "t70622",
+    "destination_field_id": "t70622"},
+  {
+    "base_field_id": "t713",
+    "layer_id": "t71331",
+    "destination_field_id": "t71331"},
+  {
+    "base_field_id": "t715",
+    "layer_id": "t71504",
+    "destination_field_id": "t71504"},
+  {
+    "base_field_id": "t725",
+    "layer_id": "t72504",
+    "destination_field_id": "t72504"},
+  {
+    "base_field_id": "t751",
+    "layer_id": "t75112",
+    "destination_field_id": "t75112"},
+  {
+    "base_field_id": "t751",
+    "layer_id": "t75121",
+    "destination_field_id": "t75121"},
+  {
+    "base_field_id": "t751",
+    "layer_id": "t75122",
+    "destination_field_id": "t75122"},
+  {
+    "base_field_id": "t752",
+    "layer_id": "t75212",
+    "destination_field_id": "t75212"},
+  {
+    "base_field_id": "t752",
+    "layer_id": "t75221",
+    "destination_field_id": "t75221"},
+  {
+    "base_field_id": "t752",
+    "layer_id": "t75222",
+    "destination_field_id": "t75222"},
+  {
+    "base_field_id": "t753",
+    "layer_id": "t75312",
+    "destination_field_id": "t75312"},
+  {
+    "base_field_id": "t753",
+    "layer_id": "t75321",
+    "destination_field_id": "t75321"},
+  {
+    "base_field_id": "t753",
+    "layer_id": "t75322",
+    "destination_field_id": "t75322"},
+  {
+    "base_field_id": "t754",
+    "layer_id": "t75412",
+    "destination_field_id": "t75412"},
+  {
+    "base_field_id": "t754",
+    "layer_id": "t75421",
+    "destination_field_id": "t75421"},
+  {
+    "base_field_id": "t754",
+    "layer_id": "t75422",
+    "destination_field_id": "t75422"},
+  {
+    "base_field_id": "t755",
+    "layer_id": "t75512",
+    "destination_field_id": "t75512"},
+  {
+    "base_field_id": "t755",
+    "layer_id": "t75521",
+    "destination_field_id": "t75521"},
+  {
+    "base_field_id": "t755",
+    "layer_id": "t75522",
+    "destination_field_id": "t75522"},
+  {
+    "base_field_id": "t902",
+    "layer_id": "t90212",
+    "destination_field_id": "t90212"
+  }
+]
