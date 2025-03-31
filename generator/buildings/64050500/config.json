@@ -1,9 +1,9 @@
 {
-    "base_building_id": 64030500,
+    "base_building_id": 64050500,
     "buildable_fields": [
         {
             "field_id": 101,
-            "building_id": 64030500,
+            "building_id": 64050500,
             "bonus_type": 0
         },
         {
@@ -18,7 +18,7 @@
         },
         {
             "field_id": 231,
-            "building_id": 64030500,
+            "building_id": 64050500,
             "bonus_type": 0
         },
         {
@@ -28,7 +28,7 @@
         },
         {
             "field_id": 401,
-            "building_id": 64030500,
+            "building_id": 64050500,
             "bonus_type": 0
         },
         {
@@ -38,7 +38,7 @@
         },
         {
             "field_id": 402,
-            "building_id": 64030500,
+            "building_id": 64050500,
             "bonus_type": 0
         },
         {
@@ -48,7 +48,7 @@
         },
         {
             "field_id": 501,
-            "building_id": 64030500,
+            "building_id": 64050500,
             "bonus_type": 0
         },
         {
@@ -58,7 +58,7 @@
         },
         {
             "field_id": 601,
-            "building_id": 64030500,
+            "building_id": 64050500,
             "bonus_type": 0
         },
         {
@@ -78,7 +78,7 @@
         },
         {
             "field_id": 713,
-            "building_id": 64030500,
+            "building_id": 64050500,
             "bonus_type": 0
         },
         {
@@ -93,7 +93,7 @@
         },
         {
             "field_id": 715,
-            "building_id": 64030500,
+            "building_id": 64050500,
             "bonus_type": 0
         },
         {
@@ -103,27 +103,27 @@
         },
         {
             "field_id": 731,
-            "building_id": 64030500,
+            "building_id": 64050500,
             "bonus_type": 0
         },
         {
             "field_id": 732,
-            "building_id": 64030500,
+            "building_id": 64050500,
             "bonus_type": 0
         },
         {
             "field_id": 733,
-            "building_id": 64030500,
+            "building_id": 64050500,
             "bonus_type": 0
         },
         {
             "field_id": 734,
-            "building_id": 64030500,
+            "building_id": 64050500,
             "bonus_type": 0
         },
         {
             "field_id": 751,
-            "building_id": 64030500,
+            "building_id": 64050500,
             "bonus_type": 0
         },
         {
@@ -143,7 +143,7 @@
         },
         {
             "field_id": 752,
-            "building_id": 64030500,
+            "building_id": 64050500,
             "bonus_type": 0
         },
         {
@@ -163,7 +163,7 @@
         },
         {
             "field_id": 753,
-            "building_id": 64030500,
+            "building_id": 64050500,
             "bonus_type": 0
         },
         {
@@ -183,7 +183,7 @@
         },
         {
             "field_id": 754,
-            "building_id": 64030500,
+            "building_id": 64050500,
             "bonus_type": 0
         },
         {
@@ -203,7 +203,7 @@
         },
         {
             "field_id": 755,
-            "building_id": 64030500,
+            "building_id": 64050500,
             "bonus_type": 0
         },
         {
