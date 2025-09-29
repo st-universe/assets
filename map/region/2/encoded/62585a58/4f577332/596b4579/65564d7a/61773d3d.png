@@ -1,0 +1,25 @@
+import os
+
+folder = os.path.dirname(os.path.abspath(__file__))
+offset = 13000000
+
+# Alle passenden Dateien sammeln
+files = [f for f in os.listdir(folder) if f.lower().endswith((".png", ".jpg", ".gif"))]
+
+# Nach Zahl im Namen sortieren
+files_sorted = sorted(files, key=lambda x: int(os.path.splitext(x)[0]))
+
+print(f"Starte Umbenennung von {len(files_sorted)} Dateien...\n")
+
+for i, filename in enumerate(files_sorted, start=1):
+    old_number = int(os.path.splitext(filename)[0])
+    new_number = old_number + offset
+    ext = os.path.splitext(filename)[1]
+
+    old_path = os.path.join(folder, filename)
+    new_path = os.path.join(folder, f"{new_number}{ext}")
+
+    os.rename(old_path, new_path)
+    print(f"[{i}/{len(files_sorted)}] {filename} -> {new_number}{ext}")
+
+print("\nFertig.")
