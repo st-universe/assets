@@ -13,11 +13,11 @@ $destinationPath = sprintf(
 $imageWidth = 40;
 $imageHeight = 40;
 
-$fileNames = [
-    '0an',
-    '0at',
-    '0bn',
-    '0bt'
+$fileSuffixes = [
+    'an',
+    'at',
+    'bn',
+    'bt'
 ];
 
 $dirContent = glob(
@@ -48,6 +48,23 @@ foreach ($dirContent as $dir) {
         $baseBuildingId
     );
 
+    $fileNames = [];
+    foreach ([0, 90, 180, 270] as $rotation) {
+        foreach ($fileSuffixes as $fileSuffix) {
+            $fileName = sprintf('%d%s', $rotation, $fileSuffix);
+            $sourcePath = sprintf('%s/%s.png', $buildingSourcePath, $fileName);
+
+            if (file_exists($sourcePath) === false) {
+                if ($rotation === 0) {
+                    echo sprintf('File `%d/%s.png` not found', $baseBuildingId, $fileName).PHP_EOL;
+                }
+                continue;
+            }
+
+            $fileNames[] = $fileName;
+        }
+    }
+
     $buildingDestinationPath = sprintf(
         '%s/%d',
         $destinationPath,
@@ -66,11 +83,6 @@ foreach ($dirContent as $dir) {
             $buildingSourcePath,
             $fileName
         );
-
-        if (file_exists($sourcePath) === false) {
-            echo sprintf('File `%d/%s.png` not found', $baseBuildingId, $fileName).PHP_EOL;
-            continue;
-        }
 
         copy(
             $sourcePath,
@@ -120,11 +132,6 @@ foreach ($dirContent as $dir) {
             $destinationImage = imagecreatetruecolor($imageWidth, $imageHeight);
             imagesavealpha($destinationImage, true);
             imagealphablending($destinationImage, false);
-
-            if (file_exists($baseImagePath) === false) {
-                echo sprintf('File `%d/%s.png` not found', $baseBuildingId, $fileName).PHP_EOL;
-                continue;
-            }
 
             $baseImage = @imagecreatefrompng($baseImagePath);
             $fragmentImage = @imagecreatefrompng($fragmentImagePath);
