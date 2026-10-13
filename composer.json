@@ -2,6 +2,13 @@
   "name": "st-universe/assets",
   "description": "STU Assets",
   "license": "proprietary",
+  "scripts": {
+    "generate": [
+      "@php generator/building_generator/gen.php",
+      "@php generator/field_generator/generator.php",
+      "@php generator/asset_versions/generate.php"
+    ]
+  },
   "require": {
     "ext-gd": "*",
     "ext-json": "*",
